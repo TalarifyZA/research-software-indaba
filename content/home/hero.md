@@ -2,30 +2,48 @@
 widget: hero
 headless: true
 weight: 10
-title: Project Docs Template
-hero_media: book.svg
+title: |
+  <br>
+  <br>
+
+  Research Software Indaba 
+  {style="font-size: 5.3rem; font-family: 'Berkshire Swash', cursive; float: center; "} 
+
+  <br>
+
+  __Bringing together stakeholders in research software and systems development__
+  {style="color: #e1c3ab; font-size: 2.8rem; font-family: 'Open Sans'; "} 
+
+  <br>
+
+  __19 May 2023__
+  {style="color: #c5d8ec; font-size: 1.8rem; font-family: 'Open Sans';  "} 
+
+
+  __V&A Waterfront, Cape Town__
+  {style="color: #c5d8ec; font-size: 1.8rem; font-family: 'Open Sans';  "} 
+  
+  <br>
+
+hero_media: 
 design:
   background:
-    gradient_start: '#4bb4e3'
-    gradient_end: '#2b94c3'
+    image: hero.png
+    overlay: white
+    gradient_start: blue
+    gradient_end: white
     text_color_light: true
 cta:
-  url: docs/
-  label: Get Started
-  icon_pack: fas
-  icon: download
+  url: 
+  label: 
+  icon_pack: 
+  icon: 
 cta_alt:
-  url: docs/
-  label: View Documentation
+  url: 
+  label: 
 cta_note:
-  label: >-
-    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-themes">
-      Project version will appear here<!-- Automatically filled based on data-repo value -->
-    </span>
+  url:
+  label: 
+    
 ---
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
-
-Write something interesting about your project here.
-
-<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/hugo-documentation-theme" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Hugo Documentation Theme</a><script async defer src="https://buttons.github.io/buttons.js"></script>

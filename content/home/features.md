@@ -2,19 +2,21 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: Document _anything_ ✨
+title: |
+  Features
+  {style="font-size: 3rem; font-family: 'Berkshire Swash', cursive; color: #373853"}
+subtitle: 
 feature:
-  - icon: book-open
-    icon_pack: fas
-    name: Project Documentation
-    description: For users
-  - icon: question
-    icon_pack: fas
-    name: Knowledge Base
-    description: For teams
-  - icon: list-alt
-    icon_pack: fas
-    name: Personal Notebook
-    description: For yourself
+  - icon: important
+    icon_pack: custom
+    name: Decision-makers & funders 
+    description: Invitees include key decision-makers and funders in the South African research software ecosystem
+  - icon: interdisciplinary
+    icon_pack: custom
+    name: Interdisciplinary and intersectoral
+    description: We have invited stakeholders from humanities, astronomy, bioinformatics, high-performance computing, industry, academia, and NGOs
+  - icon: interactive
+    icon_pack: custom
+    name: Highly interactive
+    description: The programme offer opportunity to share experiences and learn from others
 ---

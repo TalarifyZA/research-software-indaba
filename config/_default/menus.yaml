@@ -7,6 +7,23 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Documentation
-    url: docs/
+  - name: About
+    url: /#about
     weight: 20
+  - name: The event
+    url: /#about
+    parent: About
+    weight: 10
+  - name: The organisers
+    url: organisers
+    parent: About
+    weight: 20
+  - name: What to expect
+    url: /#features
+    weight: 30
+  - name: Programme
+    url: /#programme
+    weight: 40
+  - name: Community
+    url: /#who
+    weight: 50
