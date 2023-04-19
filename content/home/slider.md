@@ -7,7 +7,7 @@ headless: true  # This file represents a page section.
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
   slide_height: '300px'
-  is_fullscreen: true
+  is_fullscreen: false
   # Automatically transition through slides?
   loop: true
   # Duration of transition between slides (in ms)
@@ -15,16 +15,17 @@ design:
 
 content:
   slides:
-    - title: <br>
+    - title: Research Software & Systems Engineers of Africa
       content: |
-        <br>
-        <br>
-      align: right
+        Access to training, mentoring,  job opportunities, funding opportunities, and an active global community of practice where you can ask questions & share experiences.
+        {style="color: #ffffca; font-size: 1rem;" }
+
+      align: left
       background:
         position: 
-        color: '#666'
+        color: '#587c3b'
         brightness: 
-        media: slider-rsse-africa.png
+        media: 
         fit: 
       link:
         icon: 
@@ -32,37 +33,33 @@ content:
         text: Learn more
         url: https://rsse.africa
     - title: |
-        Advancing the research software ecosystem
-        {style="color: black;  font-size: 2rem;"} 
+        The Research Software Alliance (ReSA)
+        {style="color: black;" } 
 
-        by collaborating with
-        {style="color: black;  font-size: 2rem;"} 
+      content: |
+          Advancing the research software ecosystem by collaborating with decision-makers and key influencers
+          {style="color: black;" } 
 
-        decision-makers and key influencers
-        {style="color: black;  font-size: 2rem;"} 
-
-      content: 
       align: right
       background:
         position: center
-        color: ''
+        color: '#CFD9DE'
         brightness: 
-        media: slider-resa.png
-        fit: 
+        media: 
+        fit: contain
       link:
         icon: 
         icon_pack: 
         text: Learn more
         url: https://www.researchsoft.org/
-    - title: 
-      content: 
+    - title: Talarify
+      content: Impact through digital innovation, open science, interdisciplinarity & reproducible research
       align: center
       background:
         position: center
-        color: '#666'
+        color: '#004b6c'
         brightness:
-        media: slider-talarify.png
-        fit: cover
+        media: 
       link:
         icon: 
         icon_pack: 
