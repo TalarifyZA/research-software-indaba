@@ -7,7 +7,7 @@ headless: true  # This file represents a page section.
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
   slide_height: '300px'
-  is_fullscreen: false
+  is_fullscreen: true
   # Automatically transition through slides?
   loop: true
   # Duration of transition between slides (in ms)
@@ -29,13 +29,16 @@ content:
       link:
         icon: 
         icon_pack: 
-        text: Join Us
+        text: Learn more
         url: https://rsse.africa
     - title: |
-        Advancing the research software ecosystem by 
+        Advancing the research software ecosystem
         {style="color: black;  font-size: 2rem;"} 
 
-        collaborating with decision-makers and key influencers
+        by collaborating with
+        {style="color: black;  font-size: 2rem;"} 
+
+        decision-makers and key influencers
         {style="color: black;  font-size: 2rem;"} 
 
       content: 
@@ -49,7 +52,7 @@ content:
       link:
         icon: 
         icon_pack: 
-        text: Join Us
+        text: Learn more
         url: https://www.researchsoft.org/
     - title: 
       content: 
