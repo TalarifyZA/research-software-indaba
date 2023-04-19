@@ -11,4 +11,4 @@ design:
     
 ---
 
-<iframe src="https://docs.google.com/document/d/1l1xEEy2rVs8H4Yyx1n0zPyGMx-P9fdi4aNzGGtdtrkI/edit?usp=sharing" width="100%" height="1100px" allow="autoplay" ></iframe>
+<iframe src="https://drive.google.com/file/d/1uax1tv9JEZVQXcdsz93dWAgJw1gqwdPD/preview?usp=share_link" width="100%" height="1100px" allow="autoplay" ></iframe>
