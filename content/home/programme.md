@@ -3,7 +3,7 @@ widget: "blank"
 headless: true
 weight: 30
 title: |
-  Draft Programme
+  Programme
   {style="font-size: 3rem; font-family: 'Berkshire Swash', cursive; color: #373853"}
 
 design:
@@ -11,4 +11,4 @@ design:
     
 ---
 
-<iframe src="https://drive.google.com/file/d/1FNgIufUHpEoAgIBJQSsNOE5nt5sBbmPr/preview" width="100%" height="1100px" allow="autoplay" ></iframe>
+<iframe src="https://drive.google.com/file/d/1FNgIufUHpEoAgIBJQSsNOE5nt5sBbmPr/prev" width="100%" height="1100px" allow="autoplay" ></iframe>
