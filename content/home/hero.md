@@ -34,7 +34,7 @@ design:
     gradient_end: white
     text_color_light: true
 cta:
-  url: https://doi.org/10.5281/zenodo.7980636
+  url: https://doi.org/10.5281/zenodo.15006806
   label: Read the report!
   icon_pack: 
   icon: 
